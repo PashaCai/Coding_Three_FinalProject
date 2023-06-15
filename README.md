@@ -1,5 +1,6 @@
 # Coding_Three_FinalProject
 Submission: Element 2: Final Project
+URL for Video:https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d368225b-4fc8-4abe-a7b6-b022012246a0&start=0
 
 This is a TensorFlow-based deep learning project where my goal is to classify images on the CIFAR-10 dataset using a two-layer neural network (NN).
 
