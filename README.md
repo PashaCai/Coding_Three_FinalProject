@@ -1,7 +1,7 @@
 # Coding_Three_FinalProject
 <h2>Submission: Element 2: Final Project</h2>
-URL for Video:https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d368225b-4fc8-4abe-a7b6-b022012246a0&start=0
-URL for The CIFAR-10 dataset:https://www.cs.toronto.edu/~kriz/cifar.html
+<p>URL for Video:https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d368225b-4fc8-4abe-a7b6-b022012246a0&start=0</p>
+<p>URL for The CIFAR-10 dataset:https://www.cs.toronto.edu/~kriz/cifar.html</p>
 <hr>
 This is a TensorFlow-based deep learning project where my goal is to classify images on the CIFAR-10 dataset using a two-layer neural network (NN).
 
