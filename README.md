@@ -1,7 +1,7 @@
 # Coding_Three_FinalProject
 <h2>Submission: Element 2: Final Project</h2>
 URL for Video:https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d368225b-4fc8-4abe-a7b6-b022012246a0&start=0
-
+<hr>
 This is a TensorFlow-based deep learning project where my goal is to classify images on the CIFAR-10 dataset using a two-layer neural network (NN).
 
 In this project I first imported the CIFAR-10 dataset and split it into a training set and a test set. Then, some sample images are shown along with the average images for each category. As the images in the CIFAR-10 dataset are in colour, I need to convert them to grey scale (single channel) first and also encode the labels in one-hot. The code then shows some sample images after the conversion.
