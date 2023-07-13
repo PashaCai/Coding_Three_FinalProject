@@ -23,16 +23,16 @@ In terms of using third-party resources, this project mainly uses the TensorFlow
 TensorFlow, Keras, NumPy, Matplotlib.
 
 <h3>The specific procedure refers to these resources:</h3>
-1. TensorFlow official documentation and tutorial: https://www.tensorflow.org/overview/
-2. Keras official documentation and tutorials: https://keras.io/
-3. NumPy official documentation and tutorial: https://numpy.org/doc/
-4.Matplotlib official documents and tutorials: https://matplotlib.org/
+<p>1. TensorFlow official documentation and tutorial: https://www.tensorflow.org/overview/</p>
+<p>2. Keras official documentation and tutorials: https://keras.io/</p>
+<p>3. NumPy official documentation and tutorial: https://numpy.org/doc/</p>
+<p>4.Matplotlib official documents and tutorials: https://matplotlib.org/</p>
 
 <h3>I also refer to the following tutorials on using TensorFlow to classify the cifar10 dataset:</h3>
 1.TensorFlow official tutorial - CIFAR-10 classification: https://www.tensorflow.org/tutorials/images/cnn
 
 2.The official Keras tutorial - CIFAR-10 classification: https://keras.io/examples/cifar10_cnn/
 
-3. Image Classification with Convolutional Neural Networks: https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8
+3.Image Classification with Convolutional Neural Networks: https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8
 
-4. CIFAR-10 Image Classification in TensorFlow: https://towardsdatascience.com/cifar-10-image-classification-in-tensorflow- 5b501f7dc77c
+4.CIFAR-10 Image Classification in TensorFlow: https://towardsdatascience.com/cifar-10-image-classification-in-tensorflow- 5b501f7dc77c
