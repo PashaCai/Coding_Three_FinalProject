@@ -18,3 +18,21 @@ In this project, the evaluation process is performed after the completion of mod
 In the evaluation phase, I calculated the prediction accuracy of the model by comparing the predicted categories of test set samples by the model with the actual categories of the samples. Accuracy is defined as the proportion of samples correctly predicted to the total number of samples. The code finally outputs the prediction accuracy on the test set, which is the evaluation result.
 
 In terms of using third-party resources, this project mainly uses the TensorFlow deep learning framework to construct and train the neural network model, and uses Matplotlib to display data and results. In addition, I used the cifar10.load_data() function provided by Keras to load the CIFAR-10 dataset.
+<h2>Reference List</h2>
+<h3></h3>Third-party etymologies:</h3>
+TensorFlow, Keras, NumPy, Matplotlib.
+
+<h3>The specific procedure refers to these resources:</h3>
+1. TensorFlow official documentation and tutorial: https://www.tensorflow.org/overview/
+2. Keras official documentation and tutorials: https://keras.io/
+3. NumPy official documentation and tutorial: https://numpy.org/doc/
+4.Matplotlib official documents and tutorials: https://matplotlib.org/
+
+<h3>I also refer to the following tutorials on using TensorFlow to classify the cifar10 dataset:</h3>
+1.TensorFlow official tutorial - CIFAR-10 classification: https://www.tensorflow.org/tutorials/images/cnn
+
+2.The official Keras tutorial - CIFAR-10 classification: https://keras.io/examples/cifar10_cnn/
+
+3. Image Classification with Convolutional Neural Networks: https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8
+
+4. CIFAR-10 Image Classification in TensorFlow: https://towardsdatascience.com/cifar-10-image-classification-in-tensorflow- 5b501f7dc77c
